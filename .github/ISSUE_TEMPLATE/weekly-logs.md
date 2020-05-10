@@ -1,8 +1,8 @@
 ---
 name: Weekly Logs
 about: 주간 기록
-title: ''
-labels: ''
+title: "[Weekly] YYMMDD - YYMMDD"
+labels: week
 assignees: ''
 
 ---
